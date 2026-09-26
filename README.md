@@ -66,6 +66,3 @@ To explore the Diwali sales dataset, perform data analysis, and identify useful 
 
 📌 Data Analytics Learner | Python | SQL | Power BI | Tableau
 
----
-
-⭐ If you find this project useful, feel free to **star the repository**!
